@@ -11,13 +11,6 @@ I am looking to learn all things Software Engineering & Data Science!
 - 🔭 Interested in starting small projects to facilitate my learning.
 - ⚡ Fun fact: My MBTI is [INFJ-T (advocate)](https://www.16personalities.com/infj-personality).
 
-
-## Connect with me 🌃
-
-I'd love to learn more about you too! 
-
-TODO: Add image & link to Website, Linkedin, email
-
 ## Tech stack 🚀
 
 Frontend
@@ -37,3 +30,9 @@ TODO: Add image & links to Git, GitHub, Github Actions, Docker, ServiceNow, Jest
 
 Analytics/Data
 TODO: Add image & links to R, Dovetail, Tableau, PowerBI
+
+## Connect with me 🌃
+
+I'd love to learn more about you too! 
+
+TODO: Add image & link to Website, Linkedin, email
