@@ -15,23 +15,15 @@ I am looking to learn all things Software Engineering & Data Science!
 
 Frontend
 
-<img src="assets/frontend/css.svg" height="50px">
-<img src="assets/frontend/html.svg" height="50px">
-<img src="assets/frontend/next.js.svg" height="50px">
-<img src="assets/frontend/react.svg" height="50px">
-<img src="assets/frontend/shadcn.svg" height="50px">
-<img src="assets/frontend/typescript.svg" height="50px">
+<img src="assets/frontend/css.svg" height="50px"><img src="assets/frontend/html.svg" height="50px"><img src="assets/frontend/next.js.svg" height="50px"><img src="assets/frontend/react.svg" height="50px"><img src="assets/frontend/shadcn.svg" height="50px"><img src="assets/frontend/typescript.svg" height="50px">
 
 Backend
 
-<img src="assets/backend/python.svg" height="50px">
-<img src="assets/backend/fastapi.svg" height="50px">
-<img src="assets/backend/node.js.svg" height="50px">
+<img src="assets/backend/python.svg" height="50px"><img src="assets/backend/fastapi.svg" height="50px"><img src="assets/backend/node.js.svg" height="50px">
 
 Database
 
-<img src="assets/database/postgresql.svg" height="50px">
-<img src="assets/database/prisma.svg" height="50px">
+<img src="assets/database/postgresql.svg" height="50px"><img src="assets/database/prisma.svg" height="50px">
 
 Infrastructure/Server
 
@@ -39,23 +31,14 @@ Infrastructure/Server
 
 DevOps/Tools
 
-<img src="assets/devops & tools/github.svg"  height="50px">
-<img src="assets/devops & tools/docker.svg" height="50px">
-<img src="assets/devops & tools/github actions.svg"  height="50px">
-<img src="assets/devops & tools/jest.svg" height="50px">
-<img src="assets/devops & tools/vitest.svg" height="50px">
-<img src="assets/devops & tools/servicenow.svg" height="50px">
+<img src="assets/devops & tools/github.svg"  height="50px"><img src="assets/devops & tools/docker.svg" height="50px"><img src="assets/devops & tools/github actions.svg"  height="50px"><img src="assets/devops & tools/jest.svg" height="50px"><img src="assets/devops & tools/vitest.svg" height="50px"><img src="assets/devops & tools/servicenow.svg" height="50px">
 
 Analytics/Data
 
-<img src="assets/analytics & data/dovetail.svg" height="50px">
-<img src="assets/analytics & data/power-bi.svg" height="50px">
-<img src="assets/analytics & data/r.svg" height="50px">
-<img src="assets/analytics & data/tableau.svg" height="50px">
+<img src="assets/analytics & data/dovetail.svg" height="50px"><img src="assets/analytics & data/power-bi.svg" height="50px"><img src="assets/analytics & data/r.svg" height="50px"><img src="assets/analytics & data/tableau.svg" height="50px">
 
 ## Connect with me 🌃
 
 I'd love to learn more about you too! 
 
-[<img src="assets/connect/linkedin.svg" height="50px">](https://www.linkedin.com/in/dingyiyuu/)
-[<img src="assets/connect/email.svg" height="50px">](mailto:dingyiyu11@gmail.com)
+[<img src="assets/connect/linkedin.svg" height="50px">](https://www.linkedin.com/in/dingyiyuu/)[<img src="assets/connect/email.svg" height="50px">](mailto:dingyiyu11@gmail.com)
