@@ -14,25 +14,48 @@ I am looking to learn all things Software Engineering & Data Science!
 ## Tech stack 🚀
 
 Frontend
-TODO: Add image & links to HTML, CSS, Typescript, React, Next.js, Shadcn 
+
+<img src="assets/frontend/css.svg" height="50px">
+<img src="assets/frontend/html.svg" height="50px">
+<img src="assets/frontend/next.js.svg" height="50px">
+<img src="assets/frontend/react.svg" height="50px">
+<img src="assets/frontend/shadcn.svg" height="50px">
+<img src="assets/frontend/typescript.svg" height="50px">
 
 Backend
-TODO: Add image & links to Node.JS, Python, FastAPI
+
+<img src="assets/backend/python.svg" height="50px">
+<img src="assets/backend/fastapi.svg" height="50px">
+<img src="assets/backend/node.js.svg" height="50px">
 
 Database
-TODO: Add image & links to PostgeSQL, Prisma ORM, SQL
+
+<img src="assets/database/postgresql.svg" height="50px">
+<img src="assets/database/prisma.svg" height="50px">
 
 Infrastructure/Server
-TODO: Add image & links to AWS (ECS, Lambda, Aurora, Bedrock, CloudWatch)
+
+<img src="assets/infrastructure & server/aws.svg" height="50px">
 
 DevOps/Tools
-TODO: Add image & links to Git, GitHub, Github Actions, Docker, ServiceNow, Jest, Vitest, 
+
+<img src="assets/devops & tools/github.svg"  height="50px">
+<img src="assets/devops & tools/docker.svg" height="50px">
+<img src="assets/devops & tools/github actions.svg"  height="50px">
+<img src="assets/devops & tools/jest.svg" height="50px">
+<img src="assets/devops & tools/vitest.svg" height="50px">
+<img src="assets/devops & tools/servicenow.svg" height="50px">
 
 Analytics/Data
-TODO: Add image & links to R, Dovetail, Tableau, PowerBI
+
+<img src="assets/analytics & data/dovetail.svg" height="50px">
+<img src="assets/analytics & data/power-bi.svg" height="50px">
+<img src="assets/analytics & data/r.svg" height="50px">
+<img src="assets/analytics & data/tableau.svg" height="50px">
 
 ## Connect with me 🌃
 
 I'd love to learn more about you too! 
 
-TODO: Add image & link to Website, Linkedin, email
+[<img src="assets/connect/linkedin.svg" height="50px">](https://www.linkedin.com/in/dingyiyuu/)
+[<img src="assets/connect/email.svg" height="50px">](mailto:dingyiyu11@gmail.com)
