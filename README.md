@@ -69,7 +69,5 @@ Analytics/Data
 
 I'd love to learn more about you too! 
 
-<p>
-[<img src="assets/connect/linkedin.svg" height="50px">](https://www.linkedin.com/in/dingyiyuu/)
-[<img src="assets/connect/email.svg" height="50px">](mailto:dingyiyu11@gmail.com)
-</p>
+
+[<img src="assets/connect/linkedin.svg" height="50px">](https://www.linkedin.com/in/dingyiyuu/)[<img src="assets/connect/email.svg" height="50px">](mailto:dingyiyu11@gmail.com)
