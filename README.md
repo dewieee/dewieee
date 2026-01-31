@@ -169,7 +169,8 @@ I'd love to learn more about you too!
 <table>
     <tr>
         <td align="center">
-            <a href="https://www.linkedin.com/in/dingyiyuu/">
+            <a href="https://www.linkedin.com/in/dingyiyuu/"> 
+            <!-- a: anchor, makes a link -->
                 <img src="assets/connect/linkedin.svg" style="width:50px; height:50px;" alt="LinkedIn">
             </a>
             <br>
@@ -177,7 +178,7 @@ I'd love to learn more about you too!
         </td>
         <td align="center">
             <a href="mailto:dingyiyu11@gmail.com">
-                <img src="assets/connect/email.svg" style="width:50px; height:50px;"  alt="Email">
+                <img src="assets/connect/email.svg" style="width:50px; height:50px;" alt="Email">
             </a>
             <br>
             <sub>Email</sub>
