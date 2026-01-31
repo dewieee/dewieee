@@ -17,94 +17,170 @@ Frontend
 
 <!-- can't use display:inline-block; implementation -->
 
-<p align="center">
-    <span>
-        <img src="assets/frontend/css.svg" alt="CSS" style="width:50px; height:50px;"> 
-        <!-- 
-        src: source of the image
-        alt: alternative test
-        style: specific modifications to the image, e.g. width, height
-        -->
-        <br> <!-- line break -->
-        <sub>CSS</sub> <!-- sub: subscript -->
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-        <img src="assets/frontend/html.svg" alt="HTML" style="width:50px; height:50px;">
-        <br>
-        <sub>HTML</sub>
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-        <img src="assets/frontend/next.js.svg" alt="Next.JS" style="width:50px; height:50px;">
-        <br>
-        <sub>Next.JS</sub>
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-        <img src="assets/frontend/react.svg" alt="React" style="width:50px; height:50px;">
-        <br>
-        <sub>React</sub>
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-        <img src="assets/frontend/shadcn.svg" alt="shadcn" style="width:05px; height:50px;">
-        <br>
-        <sub>Shadcn</sub>
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-        <img src="assets/frontend/typescript.svg" alt="TypeScript" style="width:50px; height:50px;">
-        <br>
-        <sub>Typescript</sub>
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<table> <!-- set table borders to invisible -->
+    <tr> <!-- creates a table row -->
+        <td align="center"> <!-- creates 'table data' point -->
+            <img src="assets/frontend/css.svg" alt="CSS" style="width:50px; height:50px;"> 
+            <!-- 
+            src: source of the image
+            alt: alternative test
+            style: specific modifications to the image, e.g. width, height
+            -->
+            <br> <!-- line break -->
+            <sub>CSS</sub> <!-- sub: subscript -->
+        </td>
+        <td align="center">
+            <img src="assets/frontend/html.svg" alt="HTML" style="width:50px; height:50px;">
+            <br>
+            <sub>HTML</sub>
+        </td>
+        <td align="center">
+            <img src="assets/frontend/next.js.svg" alt="Next.JS" style="width:50px; height:50px;">
+            <br>
+            <sub>Next.JS</sub>
+        </td>
+        <td align="center">
+            <img src="assets/frontend/react.svg" alt="React" style="width:50px; height:50px;">
+            <br>
+            <sub>React</sub>
+        </td>
+        <td align="center">
+            <img src="assets/frontend/shadcn.svg" alt="shadcn" style="width:05px; height:50px;">
+            <br>
+            <sub>Shadcn</sub>
+        </td>
+        <td align="center">
+            <img src="assets/frontend/typescript.svg" alt="TypeScript" style="width:50px; height:50px;">
+            <br>
+            <sub>Typescript</sub>
+        </td>
+    </tr>
+</table>
 
 Backend
 
-<p>
-<img src="assets/backend/python.svg" alt="Python" style="width:50px; height:50px;">
-<img src="assets/backend/fastapi.svg" alt="FastAPI" style="width:50px; height:50px;">
-<img src="assets/backend/node.js.svg" alt="Node.JS" style="width:50px; height:50px;">
-</p>
+<table>
+    <tr>
+        <td align="center">
+            <img src="assets/backend/python.svg" alt="Python" style="width:50px; height:50px;">
+            <br>
+            <sub>Python</sub>
+        </td>
+        <td align="center">
+            <img src="assets/backend/fastapi.svg" alt="FastAPI" style="width:50px; height:50px;">
+            <br>
+            <sub>FastAPI</sub>
+        </td>
+        <td align="center">
+            <img src="assets/backend/node.js.svg" alt="Node.JS" style="width:50px; height:50px;">
+            <br>
+            <sub>Node.JS</sub>
+        </td>
+    </tr>
+</table>
 
 Database
 
-<p>
-<img src="assets/database/postgresql.svg" alt="PostgreSQL" style="width:50px; height:50px;">
-<img src="assets/database/prisma.svg" alt="Prisma" style="width:50px; height:50px;">
-</p>
+<table>
+    <tr>
+        <td align="center">
+            <img src="assets/database/postgresql.svg" alt="PostgreSQL" style="width:50px; height:50px;">
+            <br>
+            <sub>PostgreSQL</sub>
+        </td>
+        <td align="center">
+            <img src="assets/database/prisma.svg" alt="Prisma" style="width:50px; height:50px;">
+            <br>
+            <sub>Prisma</sub>
+        </td>
+    </tr>
+</table>
 
 Infrastructure/Server
 
-<p>
-<img src="assets/infrastructure & server/aws.svg" alt="AWS" style="width:50px; height:50px;">
-</p>
+<table>
+    <tr>
+        <td align="center">
+            <img src="assets/infrastructure & server/aws.svg" alt="AWS" style="width:50px; height:50px;">
+            <br>
+            <sub>AWS</sub>
+        </td>
+    </tr>
+</table>
 
 DevOps/Tools
 
-<p>
-<img src="assets/devops & tools/github.svg" alt="GitHub" style="width:50px; height:50px;">
-<img src="assets/devops & tools/docker.svg" alt="Docker" style="width:50px; height:50px;">
-<img src="assets/devops & tools/github actions.svg" alt="GitHub Actions" style="width:50px; height:50px;">
-<img src="assets/devops & tools/jest.svg" alt="Jest" style="width:50px; height:50px;">
-<img src="assets/devops & tools/vitest.svg" alt="Vitest" style="width:50px; height:50px;">
-<img src="assets/devops & tools/servicenow.svg" alt="ServiceNow" style="width:50px; height:50px;">
-</p>
+<table>
+    <tr>
+        <td align="center">
+            <img src="assets/devops & tools/github.svg" alt="GitHub" style="width:50px; height:50px;">
+            <br>
+            <sub>GitHub</sub>
+        </td>
+        <td align="center">
+            <img src="assets/devops & tools/docker.svg" alt="Docker" style="width:50px; height:50px;">
+            <br>
+            <sub>Docker</sub>
+        </td>
+        <td align="center">
+            <img src="assets/devops & tools/vitest.svg" alt="Vitest" style="width:50px; height:50px;">
+            <br>
+            <sub>Vitest</sub>
+        </td>
+        <td align="center">
+            <img src="assets/devops & tools/servicenow.svg" alt="ServiceNow" style="width:50px; height:50px;">
+            <br>
+            <sub>ServiceNow</sub>
+        </td>
+    </tr>
+</table>
 
 Analytics/Data
 
-<p>
-<img src="assets/analytics & data/dovetail.svg" alt="Dovetail" style="width:50px; height:50px;">
-<img src="assets/analytics & data/power-bi.svg" alt="PowerBI" style="width:50px; height:50px;">
-<img src="assets/analytics & data/r.svg" alt="R" style="width:50px; height:50px;">
-<img src="assets/analytics & data/tableau.svg" alt="Tableau" style="width:50px; height:50px;">
-</p>
+<table>
+    <tr>
+        <td align="center">
+            <img src="assets/analytics & data/dovetail.svg" alt="Dovetail" style="width:50px; height:50px;">
+            <br>
+            <sub>Dovetail</sub>
+        </td>
+        <td align="center">
+            <img src="assets/analytics & data/power-bi.svg" alt="PowerBI" style="width:50px; height:50px;">
+            <br>
+            <sub>PowerBI</sub>
+        </td>
+        <td align="center">
+            <img src="assets/analytics & data/r.svg" alt="R" style="width:50px; height:50px;">
+            <br>
+            <sub>R</sub>
+        </td>
+        <td align="center">
+            <img src="assets/analytics & data/tableau.svg" alt="Tableau" style="width:50px; height:50px;">
+            <br>
+            <sub>Tableau</sub>
+        </td>
+    </tr>
+</table>
 
 ## Connect with me 🌃
 
 I'd love to learn more about you too! 
 
-
-[<img src="assets/connect/linkedin.svg" style="width:50px; height:50px;">](https://www.linkedin.com/in/dingyiyuu/)[<img src="assets/connect/email.svg" style="width:50px; height:50px;">](mailto:dingyiyu11@gmail.com)
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/dingyiyuu/">
+                <img src="assets/connect/linkedin.svg" style="width:50px; height:50px;" alt="LinkedIn">
+            </a>
+            <br>
+            <sub>Linkedin</sub>
+        </td>
+        <td align="center">
+            <a href="mailto:dingyiyu11@gmail.com">
+                <img src="assets/connect/email.svg" style="width:50px; height:50px;"  alt="Email">
+            </a>
+            <br>
+            <sub>Email</sub>
+        </td>
+    </tr>
+</table>
