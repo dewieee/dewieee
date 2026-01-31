@@ -15,62 +15,54 @@ I am looking to learn all things Software Engineering & Data Science!
 
 Frontend
 
-<style>
-  .resizable-img {
-    width: 5px;
-    height: 5px;
-    pointer-events: none;
-  }
-</style>
-
 <p>
-<img class="resizable-img" src="assets/frontend/css.svg" alt="CSS">
-<img class="resizable-img" src="assets/frontend/html.svg" alt="HTML">
-<img class="resizable-img" src="assets/frontend/next.js.svg" alt="Next.JS">
-<img class="resizable-img" src="assets/frontend/react.svg" alt="React">
-<img class="resizable-img" src="assets/frontend/shadcn.svg" alt="shadcn">
-<img class="resizable-img" src="assets/frontend/typescript.svg" alt="TypeScript">
+<img src="assets/frontend/css.svg" alt="CSS" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/frontend/html.svg" alt="HTML" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/frontend/next.js.svg" alt="Next.JS" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/frontend/react.svg" alt="React" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/frontend/shadcn.svg" alt="shadcn" style="width:05px; height:50px; pointer-events:none;">
+<img src="assets/frontend/typescript.svg" alt="TypeScript" style="width:50px; height:50px; pointer-events:none;">
 <p>
 
 Backend
 
 <p>
-<img class="resizable-img" src="assets/backend/python.svg" alt="Python">
-<img class="resizable-img" src="assets/backend/fastapi.svg" alt="FastAPI">
-<img class="resizable-img" src="assets/backend/node.js.svg" alt="Node.JS">
+<img src="assets/backend/python.svg" alt="Python" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/backend/fastapi.svg" alt="FastAPI" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/backend/node.js.svg" alt="Node.JS" style="width:50px; height:50px; pointer-events:none;">
 </p>
 
 Database
 
 <p>
-<img class="resizable-img" src="assets/database/postgresql.svg" alt="PostgreSQL">
-<img class="resizable-img" src="assets/database/prisma.svg" alt="Prisma">
+<img src="assets/database/postgresql.svg" alt="PostgreSQL" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/database/prisma.svg" alt="Prisma" style="width:50px; height:50px; pointer-events:none;">
 </p>
 
 Infrastructure/Server
 
 <p>
-<img class="resizable-img" src="assets/infrastructure & server/aws.svg" alt="AWS">
+<img src="assets/infrastructure & server/aws.svg" alt="AWS" style="width:50px; height:50px; pointer-events:none;">
 </p>
 
 DevOps/Tools
 
 <p>
-<img class="resizable-img" src="assets/devops & tools/github.svg" alt="GitHub">
-<img class="resizable-img" src="assets/devops & tools/docker.svg" alt="Docker">
-<img class="resizable-img" src="assets/devops & tools/github actions.svg"  alt="GitHub Actions">
-<img class="resizable-img" src="assets/devops & tools/jest.svg" alt="Jest">
-<img class="resizable-img" src="assets/devops & tools/vitest.svg" alt="Vitest">
-<img class="resizable-img" src="assets/devops & tools/servicenow.svg" alt="ServiceNow">
+<img src="assets/devops & tools/github.svg" alt="GitHub" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/devops & tools/docker.svg" alt="Docker" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/devops & tools/github actions.svg" alt="GitHub Actions" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/devops & tools/jest.svg" alt="Jest" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/devops & tools/vitest.svg" alt="Vitest" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/devops & tools/servicenow.svg" alt="ServiceNow" style="width:50px; height:50px; pointer-events:none;">
 </p>
 
 Analytics/Data
 
 <p>
-<img class="resizable-img" src="assets/analytics & data/dovetail.svg" alt="Dovetail">
-<img class="resizable-img" src="assets/analytics & data/power-bi.svg" alt="PowerBI">
-<img class="resizable-img" src="assets/analytics & data/r.svg" alt="R">
-<img class="resizable-img" src="assets/analytics & data/tableau.svg" alt="Tableau">
+<img src="assets/analytics & data/dovetail.svg" alt="Dovetail" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/analytics & data/power-bi.svg" alt="PowerBI" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/analytics & data/r.svg" alt="R" style="width:50px; height:50px; pointer-events:none;">
+<img src="assets/analytics & data/tableau.svg" alt="Tableau" style="width:50px; height:50px; pointer-events:none;">
 </p>
 
 ## Connect with me 🌃
@@ -78,4 +70,4 @@ Analytics/Data
 I'd love to learn more about you too! 
 
 
-[<img class="resizable-img" src="assets/connect/linkedin.svg">](https://www.linkedin.com/in/dingyiyuu/)[<img class="resizable-img" src="assets/connect/email.svg">](mailto:dingyiyu11@gmail.com)
+[<img src="assets/connect/linkedin.svg" style="width:50px; height:50px; pointer-events:none;">](https://www.linkedin.com/in/dingyiyuu/)[<img src="assets/connect/email.svg" style="width:50px; height:50px; pointer-events:none;">](mailto:dingyiyu11@gmail.com)
