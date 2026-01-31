@@ -17,45 +17,49 @@ Frontend
 
 <!-- can't use display:inline-block; implementation -->
 
-<table border="0"> <!-- set table borders to invisible -->
-    <tr>
-        <td align="center">
-            <img src="assets/frontend/css.svg" alt="CSS" style="width:50px; height:50px;"> 
-            <!-- 
-            src: source of the image
-            alt: alternative test
-            style: specific modifications to the image, e.g. width, height
-            -->
-            <br> <!-- line break -->
-            <sub>CSS</sub> <!-- sub: subscript -->
-        </td>
-        <td align="center">
-            <img src="assets/frontend/html.svg" alt="HTML" style="width:50px; height:50px;">
-            <br>
-            <sub>HTML</sub>
-        </td>
-        <td align="center">
-            <img src="assets/frontend/next.js.svg" alt="Next.JS" style="width:50px; height:50px;">
-            <br>
-            <sub>Next.JS</sub>
-        </td>
-        <td align="center">
-            <img src="assets/frontend/react.svg" alt="React" style="width:50px; height:50px;">
-            <br>
-            <sub>React</sub>
-        </td>
-        <td align="center">
-            <img src="assets/frontend/shadcn.svg" alt="shadcn" style="width:05px; height:50px;">
-            <br>
-            <sub>Shadcn</sub>
-        </td>
-        <td align="center">
-            <img src="assets/frontend/typescript.svg" alt="TypeScript" style="width:50px; height:50px;">
-            <br>
-            <sub>Typescript</sub>
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <span>
+        <img src="assets/frontend/css.svg" alt="CSS" style="width:50px; height:50px;"> 
+        <!-- 
+        src: source of the image
+        alt: alternative test
+        style: specific modifications to the image, e.g. width, height
+        -->
+        <br> <!-- line break -->
+        <sub>CSS</sub> <!-- sub: subscript -->
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span>
+        <img src="assets/frontend/html.svg" alt="HTML" style="width:50px; height:50px;">
+        <br>
+        <sub>HTML</sub>
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span>
+        <img src="assets/frontend/next.js.svg" alt="Next.JS" style="width:50px; height:50px;">
+        <br>
+        <sub>Next.JS</sub>
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span>
+        <img src="assets/frontend/react.svg" alt="React" style="width:50px; height:50px;">
+        <br>
+        <sub>React</sub>
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span>
+        <img src="assets/frontend/shadcn.svg" alt="shadcn" style="width:05px; height:50px;">
+        <br>
+        <sub>Shadcn</sub>
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span>
+        <img src="assets/frontend/typescript.svg" alt="TypeScript" style="width:50px; height:50px;">
+        <br>
+        <sub>Typescript</sub>
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 Backend
 
