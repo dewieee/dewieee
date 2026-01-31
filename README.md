@@ -15,48 +15,47 @@ I am looking to learn all things Software Engineering & Data Science!
 
 Frontend
 
-<div> <!-- container -->
-    <div style="display:inline-block; text-align:center; margin:8px;">
-    <!-- 
-    display:inline-block: allows in div things to sit inline (not vertically)
-    text-align:center: centres content in the div
-    margin:8px: put space around things in the div
-    -->
-        <img src="assets/frontend/css.svg" alt="CSS" style="width:50px; height:50px;"> 
-        <!-- 
-        src: source of the image
-        alt: alternative test
-        style: specific modifications to the image, e.g. width, height
-        -->
-        <br> <!-- line break -->
-        <sub>CSS</sub> <!-- sub: subscript -->
-    </div>
-    <div style="display:inline-block; text-align:center; margin:8px;">
-        <img src="assets/frontend/html.svg" alt="HTML" style="width:50px; height:50px;">
-        <br>
-        <sub>HTML</sub>
-    </div>
-    <div style="display:inline-block; text-align:center; margin:8px;">
-        <img src="assets/frontend/next.js.svg" alt="Next.JS" style="width:50px; height:50px;">
-        <br>
-        <sub>Next.JS</sub>
-    </div>
-    <div style="display:inline-block; text-align:center; margin:8px;">
-        <img src="assets/frontend/react.svg" alt="React" style="width:50px; height:50px;">
-        <br>
-        <sub>React</sub>
-    </div>
-    <div style="display:inline-block; text-align:center; margin:8px;">
-        <img src="assets/frontend/shadcn.svg" alt="shadcn" style="width:05px; height:50px;">
-        <br>
-        <sub>Shadcn</sub>
-    </div>
-    <div style="display:inline-block; text-align:center; margin:8px;">
-        <img src="assets/frontend/typescript.svg" alt="TypeScript" style="width:50px; height:50px;">
-        <br>
-        <sub>Typescript</sub>
-    </div>
-</div>
+<!-- can't use display:inline-block; implementation -->
+
+<table> <!-- container -->
+    <tr>
+        <td align="center">
+            <img src="assets/frontend/css.svg" alt="CSS" style="width:50px; height:50px;"> 
+            <!-- 
+            src: source of the image
+            alt: alternative test
+            style: specific modifications to the image, e.g. width, height
+            -->
+            <br> <!-- line break -->
+            <sub>CSS</sub> <!-- sub: subscript -->
+        </td>
+        <td align="center">
+            <img src="assets/frontend/html.svg" alt="HTML" style="width:50px; height:50px;">
+            <br>
+            <sub>HTML</sub>
+        </td>
+        <td align="center">
+            <img src="assets/frontend/next.js.svg" alt="Next.JS" style="width:50px; height:50px;">
+            <br>
+            <sub>Next.JS</sub>
+        </td>
+        <td align="center">
+            <img src="assets/frontend/react.svg" alt="React" style="width:50px; height:50px;">
+            <br>
+            <sub>React</sub>
+        </td>
+        <td align="center">
+            <img src="assets/frontend/shadcn.svg" alt="shadcn" style="width:05px; height:50px;">
+            <br>
+            <sub>Shadcn</sub>
+        </td>
+        <td align="center">
+            <img src="assets/frontend/typescript.svg" alt="TypeScript" style="width:50px; height:50px;">
+            <br>
+            <sub>Typescript</sub>
+        </td>
+    </tr>
+</table>
 
 Backend
 
