@@ -17,7 +17,7 @@ Frontend
 
 <!-- can't use display:inline-block; implementation -->
 
-<table> <!-- container -->
+<table border="0"> <!-- set table borders to invisible -->
     <tr>
         <td align="center">
             <img src="assets/frontend/css.svg" alt="CSS" style="width:50px; height:50px;"> 
