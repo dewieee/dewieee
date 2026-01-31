@@ -56,7 +56,7 @@ Frontend
         <br>
         <sub>Typescript</sub>
     </div>
-<div>
+</div>
 
 Backend
 
